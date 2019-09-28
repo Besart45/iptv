@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="De- ZDF Neo" group="Germany", De- ZDF Neo
+http://188.72.4.230:8000/mytv/My1p@9090/256
+#EXTINF:0 type="stream" channelId="-1" name="De- ZDF info HD" group="Germany", De- ZDF info HD
+http://188.72.4.230:8000/mytv/My1p@9090/255
+#EXTINF:0 type="stream" channelId="-1" name="De- ZDF" group="Germany", De- ZDF
+http://188.72.4.230:8000/mytv/My1p@9090/257
+#EXTINF:0 type="stream" channelId="-1" name="De- Arte HD" group="Germany", De- Arte HD
+http://188.72.4.230:8000/mytv/My1p@9090/252
+#EXTINF:0 type="stream" channelId="-1" name="De- RTL" group="Germany", De- RTL
+http://188.72.4.230:8000/mytv/My1p@9090/253
+#EXTINF:0 type="stream" channelId="-1" name="De- VOX HD" group="Germany", De- VOX HD
+http://188.72.4.230:8000/mytv/My1p@9090/254
+#EXTINF:0 type="stream" channelId="-1" name="OSN Series Comedy HD" group="OSN", OSN Series Comedy HD
+http://188.72.4.230:8000/mytv/My1p@9090/51
+#EXTINF:0 type="stream" channelId="-1" name="OSN Series First HD" group="OSN", OSN Series First HD
+http://188.72.4.230:8000/mytv/My1p@9090/50
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies Disney HD" group="OSN", OSN Movies Disney HD
+http://188.72.4.230:8000/mytv/My1p@9090/60
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies HD" group="OSN", OSN Movies HD
+http://188.72.4.230:8000/mytv/My1p@9090/58
+#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group="OSN", OSN Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/61
+#EXTINF:0 type="stream" channelId="-1" name="OSN Kids HD" group="OSN", OSN Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/57
+#EXTINF:0 type="stream" channelId="-1" name="OSN Enigma HD" group="OSN", OSN Enigma HD
+http://188.72.4.230:8000/mytv/My1p@9090/56
+#EXTINF:0 type="stream" channelId="-1" name="OSN Comedy Central" group="OSN", OSN Comedy Central
+http://188.72.4.230:8000/mytv/My1p@9090/41
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC1 HD" group="MyHD", My- MBC1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/40
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC2 HD" group="MyHD", My- MBC2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/39
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC3 HD" group="MyHD", My- MBC3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/38
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC4 HD" group="MyHD", My- MBC4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/37
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC Drama  HD" group="MyHD", My- MBC Drama  HD
+http://188.72.4.230:8000/mytv/My1p@9090/31
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC Drama HD" group="MyHD", My- MBC Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/32
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC MAX HD" group="MyHD", My- MBC MAX HD
+http://188.72.4.230:8000/mytv/My1p@9090/29
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC Bollywood HD" group="MyHD", My- MBC Bollywood HD
+http://188.72.4.230:8000/mytv/My1p@9090/34
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC Variety HD" group="MyHD", My- MBC Variety HD
+http://188.72.4.230:8000/mytv/My1p@9090/33
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC  Drama HD" group="MyHD", My- MBC  Drama HD
+http://188.72.4.230:8000/mytv/My1p@9090/36
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC Action HD" group="MyHD", My- MBC Action HD
+http://188.72.4.230:8000/mytv/My1p@9090/35
+#EXTINF:0 type="stream" channelId="-1" name="My- MBC Masir2" group="MyHD", My- MBC Masir2
+http://188.72.4.230:8000/mytv/My1p@9090/30
+#EXTINF:0 type="stream" channelId="-1" name="My- Fox Crime HD" group="MyHD", My- Fox Crime HD
+http://188.72.4.230:8000/mytv/My1p@9090/18
+#EXTINF:0 type="stream" channelId="-1" name="Ar- Aljazeera English" group="Arabic", Ar- Aljazeera English
+http://188.72.4.230:8000/mytv/My1p@9090/353
+#EXTINF:0 type="stream" channelId="-1" name="Ar- AD Sport1 HD" group="Arabic", Ar- AD Sport1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/336
+#EXTINF:0 type="stream" channelId="-1" name="Ar- AD Sport2 HD" group="Arabic", Ar- AD Sport2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/335
+#EXTINF:0 type="stream" channelId="-1" name="Ar- AD Sport3 HD" group="Arabic", Ar- AD Sport3 HD
+http://188.72.4.230:8000/mytv/My1p@9090/334
+#EXTINF:0 type="stream" channelId="-1" name="Ar- AD Sport4 HD" group="Arabic", Ar- AD Sport4 HD
+http://188.72.4.230:8000/mytv/My1p@9090/333
+#EXTINF:0 type="stream" channelId="-1" name="Tr- Fox TV HD" group="Turkish", Tr- Fox TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/259
+#EXTINF:0 type="stream" channelId="-1" name="Tr- Show TV HD" group="Turkish", Tr- Show TV HD
+http://188.72.4.230:8000/mytv/My1p@9090/260
+#EXTINF:0 type="stream" channelId="-1" name="Tr- TRT Muzic HD" group="Turkish", Tr- TRT Muzic HD
+http://188.72.4.230:8000/mytv/My1p@9090/258
+#EXTINF:0 type="stream" channelId="-1" name="Uk- Sky Sports Main Event HD" group="UK", Uk- Sky Sports Main Event HD
+http://188.72.4.230:8000/mytv/My1p@9090/193
+#EXTINF:0 type="stream" channelId="-1" name="Uk- Sky Sport Football" group="UK", Uk- Sky Sport Football
+http://188.72.4.230:8000/mytv/My1p@9090/192
+#EXTINF:0 type="stream" channelId="-1" name="UK- Sky BBC News" group="UK", UK- Sky BBC News
+http://188.72.4.230:8000/mytv/My1p@9090/207
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sport HD" group="Bein", Bein Sport HD
+http://188.72.4.230:8000/mytv/My1p@9090/126
+#EXTINF:0 type="stream" channelId="1613" name="Bein Sports HD1" group="Bein", Bein Sports HD1
+http://188.72.4.230:8000/mytv/My1p@9090/124
+#EXTINF:0 type="stream" channelId="1614" name="Bein Sports HD2" group="Bein", Bein Sports HD2
+http://188.72.4.230:8000/mytv/My1p@9090/123
+#EXTINF:0 type="stream" channelId="1615" name="Bein Sports HD3" group="Bein", Bein Sports HD3
+http://188.72.4.230:8000/mytv/My1p@9090/122
+#EXTINF:0 type="stream" channelId="1616" name="Bein Sports HD4" group="Bein", Bein Sports HD4
+http://188.72.4.230:8000/mytv/My1p@9090/121
+#EXTINF:0 type="stream" channelId="1617" name="Bein Sports HD5" group="Bein", Bein Sports HD5
+http://188.72.4.230:8000/mytv/My1p@9090/120
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports HD6" group="Bein", Bein Sports HD6
+http://188.72.4.230:8000/mytv/My1p@9090/119
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports HD7" group="Bein", Bein Sports HD7
+http://188.72.4.230:8000/mytv/My1p@9090/118
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports HD8" group="Bein", Bein Sports HD8
+http://188.72.4.230:8000/mytv/My1p@9090/117
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports HD9" group="Bein", Bein Sports HD9
+http://188.72.4.230:8000/mytv/My1p@9090/116
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports HD10" group="Bein", Bein Sports HD10
+http://188.72.4.230:8000/mytv/My1p@9090/115
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sport HD11 EN" group="Bein", Bein Sport HD11 EN
+http://188.72.4.230:8000/mytv/My1p@9090/114
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies HD2" group="Bein", Bein Movies HD2
+http://188.72.4.230:8000/mytv/My1p@9090/106
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies HD3" group="Bein", Bein Movies HD3
+http://188.72.4.230:8000/mytv/My1p@9090/105
+#EXTINF:0 type="stream" channelId="-1" name="Bein Movies HD4" group="Bein", Bein Movies HD4
+http://188.72.4.230:8000/mytv/My1p@9090/104
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sport HD12 EN" group="Bein", Bein Sport HD12 EN
+http://188.72.4.230:8000/mytv/My1p@9090/113
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sport HD13" group="Bein", Bein Sport HD13
+http://188.72.4.230:8000/mytv/My1p@9090/112
+#EXTINF:0 type="stream" channelId="-1" name="Bein BBC Earth HD" group="Bein", Bein BBC Earth HD
+http://188.72.4.230:8000/mytv/My1p@9090/381
+#EXTINF:0 type="stream" channelId="-1" name="Bein Cartoon Network HD" group="Bein", Bein Cartoon Network HD
+http://188.72.4.230:8000/mytv/My1p@9090/84
+#EXTINF:0 type="stream" channelId="-1" name="Bein Discovery Kids HD" group="Bein", Bein Discovery Kids HD
+http://188.72.4.230:8000/mytv/My1p@9090/96
+#EXTINF:0 type="stream" channelId="-1" name="Bein Discovery Life HD" group="Bein", Bein Discovery Life HD
+http://188.72.4.230:8000/mytv/My1p@9090/94
+#EXTINF:0 type="stream" channelId="-1" name="Bein Discovery Max HD" group="Bein", Bein Discovery Max HD
+http://188.72.4.230:8000/mytv/My1p@9090/93
+#EXTINF:0 type="stream" channelId="-1" name="Bein Discovery Turbo Xtra" group="Bein", Bein Discovery Turbo Xtra
+http://188.72.4.230:8000/mytv/My1p@9090/95
+#EXTINF:0 type="stream" channelId="-1" name="Bein Fatafeat" group="Bein", Bein Fatafeat
+http://188.72.4.230:8000/mytv/My1p@9090/92
+#EXTINF:0 type="stream" channelId="-1" name="Bein Fine Living HD" group="Bein", Bein Fine Living HD
+http://188.72.4.230:8000/mytv/My1p@9090/382
+#EXTINF:0 type="stream" channelId="-1" name="Bein Food Network HD" group="Bein", Bein Food Network HD
+http://188.72.4.230:8000/mytv/My1p@9090/79
+#EXTINF:0 type="stream" channelId="-1" name="Bein Gourmet HD" group="Bein", Bein Gourmet HD
+http://188.72.4.230:8000/mytv/My1p@9090/91
+#EXTINF:0 type="stream" channelId="-1" name="Bein Nat Geo HD" group="Bein", Bein Nat Geo HD
+http://188.72.4.230:8000/mytv/My1p@9090/86
+#EXTINF:0 type="stream" channelId="-1" name="Bein Nat People" group="Bein", Bein Nat People
+http://188.72.4.230:8000/mytv/My1p@9090/88
+#EXTINF:0 type="stream" channelId="-1" name="Bein Nat Wild" group="Bein", Bein Nat Wild
+http://188.72.4.230:8000/mytv/My1p@9090/87
+#EXTINF:0 type="stream" channelId="-1" name="Bein Series 1 HD" group="Bein", Bein Series 1 HD
+http://188.72.4.230:8000/mytv/My1p@9090/129
+#EXTINF:0 type="stream" channelId="-1" name="Bein Series 2 HD" group="Bein", Bein Series 2 HD
+http://188.72.4.230:8000/mytv/My1p@9090/128
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sport News HD" group="Bein", Bein Sport News HD
+http://188.72.4.230:8000/mytv/My1p@9090/125
+#EXTINF:0 type="stream" channelId="-1" name="Bein Travel HD" group="Bein", Bein Travel HD
+http://188.72.4.230:8000/mytv/My1p@9090/90
