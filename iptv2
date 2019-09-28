@@ -143,3 +143,21 @@ http://188.72.4.230:8000/mytv/My1p@9090/128
 http://188.72.4.230:8000/mytv/My1p@9090/125
 #EXTINF:0 type="stream" channelId="-1" name="Bein Travel HD" group="Bein", Bein Travel HD
 http://188.72.4.230:8000/mytv/My1p@9090/90
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta Sports 1
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport", Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport", SportsMax TV
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:0 type="favorites" channelId="-1" group="Sport" logo="https://i.imgur.com/HC0j4cC.jpg", Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w2102582891_b6628000.m3u8
+#EXTINF:0 type="favorites" channelId="4" name="ÐœÐ°Ñ‚Ñ‡! HD" group="Sport" logo="https://iptvx.one/icn/match.png", ÐœÐ°Ñ‚Ñ‡ Ð¢Ð’
+http://176.114.16.54:80/match/index.m3u8
+#EXTINF:0 type="favorites" channelId="919" name="Ð¤ÑƒÑ‚Ð±Ð¾Ð»" group="Sport" logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png", Ð¤ÑƒÑ‚Ð±Ð¾Ð»
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:0 type="favorites" channelId="-1", UK:Sky_Sports_PREMIER_LEAGUE_HD_(Backup1)
+http://universeiptv.com:8000/charlie/2019/4963
+#EXTINF:0 type="favorites" channelId="-1" country="de", Sky_Sports_HD_1
+http://universeiptv.com:8000/charlie/2019/606
+#EXTINF:0 type="favorites" channelId="3342" country="de", SKY_Sport_News_HD
+http://universeiptv.com:8000/charlie/2019/2078
