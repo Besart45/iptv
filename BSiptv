@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Sport" logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg", Setanta Sports 1
+http://ott-cdn.ucom.am/s81/03.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport", Setanta Sports 2
+http://92.43.140.200/s82/04.m3u8
+#EXTINF:0 type="stream" channelId="1176" group="Sport" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sbs_sports_kr.png/130px-Sbs_sports_kr.png", Sky Sports
+http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1582" name="Sport TV 1" group="Sport" logo="https://i.imgur.com/UlFhj49.jpg", Sport TV 1
+https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1584" name="Sport TV 2" group="Sport" logo="https://i.imgur.com/UlFhj49.jpg", Sport TV 2
+https://5-226-137-173.netvarp.is/beint/sporttv2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="1585" name="Sport TV 3" group="Sport" logo="https://i.imgur.com/UlFhj49.jpg", Sport TV 3
+https://213-167-154-115.netvarp.is/beint/sporttv3/mono.m3u8
+#EXTINF:0 type="stream" channelId="1586" name="Sport TV 4" group="Sport" logo="https://i.imgur.com/UlFhj49.jpg", Sport TV 4
+https://213-167-154-115.netvarp.is/beint/sporttv4/mono.m3u8
+#EXTINF:0 type="stream" channelId="2862" name="Sport TV 5" group="Sport" logo="https://i.imgur.com/UlFhj49.jpg", Sport TV 5
+https://213-167-154-115.netvarp.is/beint/sporttv5/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport", SportsMax TV
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport" logo="https://i.imgur.com/HC0j4cC.jpg", Swiss Sport TV
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w2102582891_b6628000.m3u8
+#EXTINF:0 type="stream" channelId="1060" name="TRT Spor TR" group="Sport" logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-11.23.47/26a2ed090ada4b9fba97b3fcab3551d7_w_118.png", TRT Spor
+https://mn-nl.mncdn.com/blutv_live/trtsporhd/trtsporhd.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport", TÃ¼rkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sport" logo="http://www.ktrk.kg/images/channels/nav/sport.png", ÐšÐ¢Ð Ðš Ð¡Ð¿Ð¾Ñ€Ñ‚
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4" name="ÐœÐ°Ñ‚Ñ‡! HD" group="Sport" logo="https://iptvx.one/icn/match.png", ÐœÐ°Ñ‚Ñ‡ Ð¢Ð’
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:0 type="stream" channelId="919" name="Ð¤ÑƒÑ‚Ð±Ð¾Ð»" group="Sport" logo="http://www.football-tv.ru/wp-content/uploads/2017/11/logo-mini-1.png", Ð¤ÑƒÑ‚Ð±Ð¾Ð»
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="Abu Dhabi Sports ARB" group="Sport" logo="https://i.imgur.com/lKl2wZH.png", Abu Dhabi Sports
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+#EXTINF:0 type="stream" channelId="1332" name="Real Madrid TV ES" group="Sport" logo="http://www.imaginaus.com/es/wp-content/uploads/2014/02/real-madrid.jpg", Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="De- RTL" group="Germany", De- RTL
+http://188.72.4.230:8000/mytv/My1p@9090/253
+#EXTINF:0 type="stream" channelId="-1" name="De- VOX HD" group="Germany", De- VOX HD
+http://188.72.4.230:8000/mytv/My1p@9090/254
+#EXTINF:0 type="stream" channelId="-1" name="De- ZDF" group="Germany", De- ZDF
+http://188.72.4.230:8000/mytv/My1p@9090/257
+#EXTINF:0 type="stream" channelId="-1" name="De- ZDF info HD" group="Germany", De- ZDF info HD
+http://188.72.4.230:8000/mytv/My1p@9090/255
+#EXTINF:0 type="stream" channelId="-1" name="De- ZDF Neo" group="Germany", De- ZDF Neo
+http://188.72.4.230:8000/mytv/My1p@9090/256
+#EXTINF:0 type="stream" channelId="-1" name="Fr- Discovery channel HD" group="French", Fr- Discovery channel HD
+http://188.72.4.230:8000/mytv/My1p@9090/215
+#EXTINF:0 type="stream" channelId="-1" name="De- Arte HD" group="Germany", De- Arte HD
+http://188.72.4.230:8000/mytv/My1p@9090/252
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTK 2
+http://176.31.74.161:8081/live/rtk2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTK 3
+http://176.31.74.161:8081/live/rtk3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTK 4
+http://176.31.74.161:8081/live/rtk4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TOP CHANNEL HD
+http://mobflussonic1.tibo.tv/topchannelhd/mpegts
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", JOLLY HD
+https://stream.shqiptv.com/tst/JOLLY-8774-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING ACTION
+https://stream.shqiptv.com/tst/TRINGACTION-8769-sd/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING SUPER
+https://stream.shqiptv.com/tst/TRINGSUPER-8770-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING LIFE
+https://stream.shqiptv.com/tst/TRINGLIFE-8768-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING FANTASY
+https://stream.shqiptv.com/tst/TRINGFANTASY-8766-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING COMEDY
+https://stream.shqiptv.com/tst/TRINGKOMEDI-8767-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING SHQIP
+https://stream.shqiptv.com/tst/TRINGSHQIP-8762-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TIP TV
+https://stream.shqiptv.com/tst/TIPTV-8776-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING SMILE
+https://stream.shqiptv.com/tst/TRINGSMILE-8772-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING LIVING
+https://stream.shqiptv.com/tst/LIVING-8771-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING INTERNATIONAL
+https://stream.shqiptv.com/tst/TRINGINTERNATIONAL-8802-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING MUSE
+https://stream.shqiptv.com/tst/TRINGMUSE-8778-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING PLANET
+https://stream.shqiptv.com/tst/TRINGPLANET-8764-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING HISTORY
+https://stream.shqiptv.com/tst/TRINGHISTORI-8765-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING WORLD
+https://stream.shqiptv.com/tst/TRINGWORLD-8763-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING 3 PLUS
+https://stream.shqiptv.com/tst/3PLUS-8773-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH
+http://79.106.48.2/live/rtsh_1ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH 2
+http://79.106.48.2/live/rtsh_2ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH 3
+http://79.106.48.2/live/rtsh_3ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH PLUS
+http://79.106.48.2/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH SHQIP
+http://79.106.48.2/live/rtsh_shqip_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH FILM
+http://79.106.48.2/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH FEMIJE
+http://79.106.48.2/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", DIELLI TV
+http://51.15.180.159:8081/play/hls/dielli/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH MUZIKE
+http://79.106.48.2/live/rtsh_muzike_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH 24
+http://79.106.48.2/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", ELRODI TV
+https://stream.shqiptv.com/tst/ELRODI-8718-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", 7 News
+https://stream.shqiptv.com/tst/7NEWS-8761-sd/index.m3u8?sid=QQkEMpBogp34bJmfDwq4d
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", Zjarr Tv
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TETOVA
+http://ip.tvtetova.net:8080/hls/tvtetova.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTV ZERI
+http://uk4.streamingpulse.com:1935/RTVZiK/RTVZiK/chunklist_w86595820.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", 
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc4@320296/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", 
+https://puma.gjirafa.com/api/media/rgjirafa/t0g0tg/720/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", "\\\\\\,Opoja TV
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", Euro AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", Roma Music
+http://185.46.161.3/hls/hd.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", "\\\\\\,ALB UK HD
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", "\\\\\\,Rtv Ilirida
+http://uk4.streamingpulse.com:1935/rtvilirida/rtvilirida/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", APOLLON TELEVIZION HD
+http://185.80.224.14:8095/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", ARTA HD
+https://zeus.gjirafa.com:443/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x720/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", NEWS 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", REPORT TV
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RROKUM TV
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8?wowzasessionid=141316912
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", RTSH SPORT
+http://79.106.48.2/live/rtsh_sport_ott/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", TRING SPORT 1
+https://stream.shqiptv.com/tst/TRINGSPORTNEWS-8785-sd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", SUPER SPORT 2 HD
+https://mmm.sportscore.biz/lba/NzUxNmE1MmMyYmQ2MDdkYjgzMDIzMjA2YTkxYTRhOTY=/g2/ss2al.m3u8?token=NzUxNmE1MmMyYmQ2MDdkYjgzMDIzMjA2YTkxYTRhOTY=&id=YjlmMmNiYWQ1YmMzNWM1NTdkMjAyODNkOTlkOGY4NzE=&vip=1568657341&dip=YzBhYTY2ZjA4YTI2OTMyNDhhODY1M2MyZmMyOWU5ZTE=&pip=162.158.234.132&hip=YzFhOWMzOGU5ZDI0N2FmZmQzMGU5MzEzMTQzNzBhNDA=
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", SUPER SPORT 3 HD
+https://mmm.sport7.biz/lba/NzJmN2I2YWIyMmQ1ZTZlYzEyMzA5YzAyZTcxOGUxZmM=/g8/albaniasport3.m3u8?token=NzJmN2I2YWIyMmQ1ZTZlYzEyMzA5YzAyZTcxOGUxZmM=&id=YzIwYWUzYjEzNTBlNzRlMmVhNzZlNDhhMmZmMDAyMWE=&vip=1568657517&dip=MDYxMzY1NDQ5NzEyNTRhYmM0MWIzZjljMzc1Mzc0NDQ=&pip=162.158.234.122&hip=ZmNkN2FmMmY0M2Y1ZDIxNTNmZDYyNTE4ZmU2N2YzOTQ=
+#EXTINF:0 type="stream" channelId="-1" group="KOSOVO", SUPER SPORT 4
+https://sportbar.biz/lba/MzI1NzgwNzdkOGE0Y2Y0NmYyZjViMTM1OWM0ODE1OTg=/g10/super4sport.m3u8?token=MzI1NzgwNzdkOGE0Y2Y0NmYyZjViMTM1OWM0ODE1OTg=&id=ZWU4OWMwODI0NDJkNzhlMzQyZDE4YTE3YzRmOTcwMjk=&vip=1568657628&dip=ZTVmNzEyOWEyNmJkYjE1NGM1NmE3NjMyZDBhZDJhZjE=&pip=81.164.94.96&hip=OTA1YmQ5Mjg5NDNmZTZiY2I5YzgwNmVkNjEyNDMyZTI=
